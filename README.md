@@ -1,6 +1,6 @@
 ### Set up elastic stack in kubernetes cluster
 
-###### Demo Notes and Files for the course: [name]
+###### Demo Notes and configuration files for the course: [name]
 
 ### Setup steps
 
