@@ -11,7 +11,11 @@
 
 ### Setup steps
 
-##### - Create Simpel Node and Java apps that log few lines in JSON format
+##### - Create simple Nodejs and Java apps that log few lines in JSON format
+
+    https://gitlab.com/nanuchi/java-app
+    https://gitlab.com/nanuchi/node-app
+
 
 ##### - Set up docker hub private repository to push java and node app images
 
