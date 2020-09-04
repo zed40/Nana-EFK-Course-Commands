@@ -7,3 +7,11 @@
 
 [installation guide Helm](https://helm.sh/docs/intro/install/)
 <img src="https://helm.sh/img/helm.svg" width="30px" height="30px">
+
+
+#### Helm Chart repository links:
+
+- [Ingress Nginx Controller Chart](https://github.com/kubernetes/ingress-nginx/tree/master/charts/ingress-nginx)
+- [Fluentd Chart](https://github.com/bitnami/charts/tree/master/bitnami/fluentd)
+- [Elastic Search Chart](https://github.com/elastic/helm-charts/blob/master/elasticsearch)
+- [Kibana Chart](https://github.com/elastic/helm-charts/blob/master/kibana)
