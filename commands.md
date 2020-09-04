@@ -37,10 +37,11 @@
 
     access: localhost:5601
 
-##### install ingress controller from k8s (Deprecated)
+##### install nginx-ingress controller
 
     helm repo add stable https://kubernetes-charts.storage.googleapis.com/
-    helm install nginx-ingress stable/nginx-ingress --set controller.publishService.enabled=true
+    helm repo add ingress-nginx https://kubernetes.github.io/ingress-nginx
+    helm install nginx-ingress ingress-nginx/ingress-nginx
 
 ##### install Fluentd
 
@@ -64,15 +65,8 @@
     helm install kibana elastic/kibana --version="7.9.0"
     helm install fluentd bitnami/fluentd --version="2.0.1"
 
-    helm install nginx-ingress stable/nginx-ingress --version="1.41.3" --set controller.publishService.enabled=true
+    helm install nginx-ingress ingress-nginx/ingress-nginx --version="2.15.0"
 
 ##### install helm chart in a specific namespace (namespace must already exist)
 
     helm install elasticsearch elastic/elasticsearch -f values-linode.yaml -n elastic
-
-
-##### nginx-ingress-controller Chart 
-    
-    helm repo add stable https://kubernetes-charts.storage.googleapis.com/
-    helm repo add ingress-nginx https://kubernetes.github.io/ingress-nginx
-    helm install nginx-ingress ingress-nginx/ingress-nginx --version="2.15.0"
