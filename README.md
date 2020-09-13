@@ -1,3 +1,12 @@
+### Notes to the course on Udemy
+https://www.udemy.com/course/logging-in-kubernetes-with-efk-stack/
+
+### Linode Kubernetes Engine ($100 - 60day credit)
+https://bit.ly/31p4GW2
+
+### Course overview
+https://www.youtube.com/watch?v=I5c8Pfg2tys&ab_channel=TechWorldwithNana
+
 ### Set up elastic stack in kubernetes cluster (EFK) Elastic - FluentD - Kibana
 
 <img src="https://techtiefen.de/podlove/image/68747470733a2f2f7465636874696566656e2e64652f77702d636f6e74656e742f75706c6f6164732f656c61737469632e706e67/500/500/0/elasticsearch" width="40px" height="40px" />
@@ -13,8 +22,8 @@
 
 ##### - Create simple Nodejs and Java apps that log few lines in JSON format
 
-    https://gitlab.com/nanuchi/java-app
-    https://gitlab.com/nanuchi/node-app
+https://gitlab.com/nanuchi/java-app
+https://gitlab.com/nanuchi/node-app
 
 
 ##### - Set up docker hub private repository to push java and node app images
