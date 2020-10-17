@@ -5,6 +5,8 @@
     kubectl proxy 
     http://localhost:8001/api/v1/namespaces/kubernetes-dashboard/services/https:kubernetes-dashboard:/proxy/.
 
+###### For alternatives/ways to access K8s dashboard externally, see
+    https://www.edureka.co/community/31282/is-accessing-kubernetes-dashboard-remotely-possible
 
 ###### create docker-registry secret for dockerHub
     DOCKER_REGISTRY_SERVER=docker.io
