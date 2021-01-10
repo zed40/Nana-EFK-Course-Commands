@@ -10,6 +10,15 @@ resources:
     cpu: "1000m"
     memory: "512M"
 
+# To allocate more space if above requests and limits aren't enough
+# resources:
+  # requests:
+    # cpu: "500m"
+    # memory: "2Gi"
+  # limits:
+    # cpu: "1000m"
+    # memory: "5G"    
+
 # Request smaller persistent volumes.
 volumeClaimTemplate:
   accessModes: [ "ReadWriteOnce" ]
