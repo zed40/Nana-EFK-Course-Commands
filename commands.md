@@ -55,7 +55,7 @@ https://github.com/microsoft/azure-pipelines-tasks/pull/13633#issue-495303841
     helm repo add ingress-nginx https://kubernetes.github.io/ingress-nginx
     helm install nginx-ingress ingress-nginx/ingress-nginx
 
-[Up-to-date Chart Repo](https://github.com/kubernetes/ingress-nginx/tree/master/charts/ingress-nginx)
+[New Chart Repo](https://github.com/kubernetes/ingress-nginx/tree/master/charts/ingress-nginx)
 
 ###### NOTE
 The following repo has been deprecated - https://stackoverflow.com/a/57970816    
