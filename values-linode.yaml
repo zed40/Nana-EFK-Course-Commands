@@ -27,6 +27,7 @@ volumeClaimTemplate:
     requests:
       storage: 100M
 
+# This init container allows Elastic Search service access to volumes created for ES pods on Linode 
 extraInitContainers:
   - name: init-volume-permission
     image: busybox
