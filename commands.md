@@ -61,9 +61,7 @@ https://github.com/microsoft/azure-pipelines-tasks/pull/13633#issue-495303841
 [New Chart Repo](https://github.com/kubernetes/ingress-nginx/tree/master/charts/ingress-nginx)
 
 ###### nginx-ingress issue
-In case you get an error when applying the kibana-ingress.yaml file, that mentions a validate webhook: `failed calling webhook "validate.nginx.ingress.kubernetes.io"`, then try the below workaround:
-
-    https://stackoverflow.com/a/62044090    
+In case you get an error when applying the kibana-ingress.yaml file, that mentions a validate webhook: `failed calling webhook "validate.nginx.ingress.kubernetes.io"`, then try the below workaround: https://stackoverflow.com/a/62044090    
 
 ###### NOTE
 The following repo has been deprecated - https://stackoverflow.com/a/57970816    
