@@ -2,7 +2,7 @@
 https://www.udemy.com/course/logging-in-kubernetes-with-efk-stack/
 
 ### Linode Kubernetes Engine ($100 - 60day credit)
-https://bit.ly/31p4GW2
+https://www.linode.com/lp/free-credit-short/
 
 ### Course overview
 https://www.youtube.com/watch?v=I5c8Pfg2tys&ab_channel=TechWorldwithNana
