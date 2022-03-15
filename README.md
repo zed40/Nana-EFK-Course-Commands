@@ -16,8 +16,6 @@ https://www.youtube.com/watch?v=I5c8Pfg2tys&ab_channel=TechWorldwithNana
 <img src="https://img.stackshare.io/service/1722/Image_2019-05-20_at_4.53.31_PM.png" width="40px" height="40px" />
 
 
-###### Demo Notes and configuration files for the course: [name]
-
 ### Setup steps
 
 ##### - Create simple Nodejs and Java apps that log few lines in JSON format
