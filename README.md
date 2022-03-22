@@ -18,27 +18,17 @@ https://www.youtube.com/watch?v=I5c8Pfg2tys&ab_channel=TechWorldwithNana
 
 ### Setup steps
 
-##### - Create simple Nodejs and Java apps that log few lines in JSON format
-
+- Create simple Nodejs and Java apps that log few lines in JSON format
 https://gitlab.com/nanuchi/java-app-efk
-
 https://gitlab.com/nanuchi/node-app
 
-
-##### - Set up docker hub private repository to push java and node app images
-
-##### - Create k8s cluster on Linode LKE
-
-##### - Deploy k8s dashboard in the cluster
-
-##### - Deploy node and java app images in the cluster
-
-##### - Deploy ElasticSearch with helm 
-
-##### - Deploy Kibana with helm 
-
-##### - Deploy FluentD with helm 
-
-##### - Configure FluentD to process container logs and send them to elastic 
+- Set up docker hub private repository to push java and node app images
+- Create k8s cluster on Linode LKE
+- Deploy k8s dashboard in the cluster
+- Deploy node and java app images in the cluster
+- Deploy ElasticSearch with helm 
+- Deploy Kibana with helm 
+- Deploy FluentD with helm 
+- Configure FluentD to process container logs and send them to elastic 
 
  
